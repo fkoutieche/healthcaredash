@@ -4,6 +4,7 @@
 
 
 ## Project Overview
+The "Healthcare Insurance Insights Dashboard" is a data-driven tool designed to analyze and visualize key factors influencing healthcare insurance charges, client demographics, and regional trends. It serves as a comprehensive resource for stakeholders aiming to optimize healthcare policies, resource allocation, and pricing strategies.
 This project analyzes a healthcare insurance dataset with 1000+ records to uncover insights into customer demographics, claim patterns, and premium trends. Cleaned and structured the data using SQL to answer key business questions and provide actionable recommendations. The analysis highlights opportunities for optimizing premium pricing strategies and enhancing customer service experiences. A Power BI Dashboard / Report was also created to expand on the analysis and have a visual representation and reference for key metrics.
 
 ## Objectives
